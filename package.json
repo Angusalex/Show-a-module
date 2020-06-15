@@ -1,0 +1,16 @@
+{
+  "name": "showamodule",
+  "version": "1.0.0",
+  "description": "A function that show a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "show",
+    "a",
+    "module"
+  ],
+  "author": "Nsg",
+  "license": "ISC"
+}
